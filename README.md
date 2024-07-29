@@ -2,3 +2,5 @@ The COVID-19 pandemic has placed a significant strain on healthcare systems. Ear
 Researchers explored using lightweight CNNs to automatically detect COVID-19 from chest X-rays. Though an initial model achieved high accuracy (99.5%), limitations prompted further refinement. By optimizing the model, they achieved significant performance gains. Accurate and early COVID-19 diagnosis is vital, but chest X-ray data presents challenges for machine learning models. Lightweight CNNs offer a solution for automated detection. Data pre-processing techniques (balancing, expert review, augmentation) improved data quality.
 Finding the optimal number of convolutional layers is crucial to avoid overfitting. The researchers addressed this, leading to model improvement.
 This research the importance of iterative development and optimization for maximizing machine learning model performance.
+
+All data available at: https://drive.google.com/drive/folders/1rtfq3zcwlIEamjakQAHJ3Wbvfui3rvlq
